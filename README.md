@@ -32,8 +32,6 @@ Here are some ideas to get you started:
 
 <p align="left">ma name is ma name is chicky2 guzman</p>
 
-
-
 ###
 
 <picture>
