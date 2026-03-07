@@ -1,5 +1,6 @@
-## Hi there 👋
+## Jorge de guzman, (Gracias Amigo!)👋
 
+![say my name](img/Radhit%20Pratama2.png)
 <!--
 **bogs-19/bogs-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 😄 Pronouns: **Erhmantraut**
+- ⚡ Fun fact: ***from algorithms to adventures.***
+- 📫 How to reach me: **[mySocial]** (www.linkedin.com/in/bagus-radhit-pratama-501382348)
+
+![just contact me!](img/lalo.jpeg)
