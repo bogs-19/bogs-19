@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ***from algorithms to adventures.***
 
 ##### 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,java,c,py)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,c,py)](https://skillicons.dev)
 
 ##### Interest in:
 <img src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white" />
