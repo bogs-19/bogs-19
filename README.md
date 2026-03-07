@@ -1,6 +1,6 @@
 ## Jorge de guzman, (Gracias Amigo!)👋
 
-![say my name](img/github-header-banner.png)
+![say my name](img/1.png)
 <!--
 **bogs-19/bogs-19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
